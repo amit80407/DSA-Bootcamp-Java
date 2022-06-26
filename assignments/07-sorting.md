@@ -39,6 +39,7 @@
 - [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 - [2Sum](https://leetcode.com/problems/two-sum/)
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 
 ## Medium
 - [3Sum](https://leetcode.com/problems/3sum/)
